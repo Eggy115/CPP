@@ -1,4 +1,4 @@
-# C++ Repository
+# C++
 
 This is a collection of C++ programs with various effects and functionalities.
 
