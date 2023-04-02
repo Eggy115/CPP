@@ -37,6 +37,8 @@ Contributions to this repository are welcome! If you would like to contribute, p
 4. Push your changes to your forked repository
 5. Submit a pull request to this repository
 
+Make sure to follow the guidlines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 ## License
 
 This repository is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for more details.
