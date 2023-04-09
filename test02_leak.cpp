@@ -2,7 +2,7 @@
 
 int main()
 {
+    auto ptr1 = new char[10];
     MEMORY_CHECKPOINT();
-    auto ptr = new char[20];
-    delete[] ptr;
+    auto ptr2 = new char[20];
 }

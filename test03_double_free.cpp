@@ -5,4 +5,6 @@ int main()
     MEMORY_CHECKPOINT();
     auto ptr = new char[20];
     delete[] ptr;
+    delete[] ptr;
 }
+
